@@ -26,7 +26,7 @@ function Sidebar() {
             <SidebarOption Icon={MoreHorizIcon} text="More" />
 
             <Button variant = "outlined" className = "sidebar__tweet" fullWidth>
-                Tweet
+                Share Music
             </Button>
 
         </div>
